@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class VoitureException {
+public class VoitureException extends Exception {
+    public VoitureException(String message) {
+        super(message);
+    }
 }

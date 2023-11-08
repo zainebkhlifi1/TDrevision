@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public interface Critere {
+public interface Critere {
+
+    boolean estSatisfaitPar(Voiture v);
+
+
+
 }
