@@ -2,8 +2,7 @@ import java.util.Objects;
 public class Client {
     private int code;
     private String nom;
-        private String
-                prenom;
+        private String prenom;
         public Client(int code, String nom, String prenom) {
             this.code=code;
             this.nom=nom;
@@ -42,9 +41,15 @@ public class Client {
                 return false ;
         }
         public String toString(){
-            return ("nom : "+nom+"prenom"+prenom+"code : "+code);
+            return ("nom : "+nom+"prenom : "+prenom+"code : "+code);
 
         }
+
+
+
+    private int compareTo(Client c) {
+            return 0;
+    }
 
 
 }

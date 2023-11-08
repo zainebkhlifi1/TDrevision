@@ -5,21 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c02e7da-8f16-450c-bfdc-176ad2c96034" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GestionAgenceDeVoiture.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Agence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Critere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CritereMarque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CriterePrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListVoitures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Voiture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VoitureException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrieNomCroissant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Agence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Agence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListVoitures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListVoitures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Voiture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Voiture.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/DELL/IdeaProjects/TD3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -70,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699432222349</updated>
-      <workItem from="1699432223504" duration="5511000" />
+      <workItem from="1699432223504" duration="6845000" />
     </task>
     <servers />
   </component>

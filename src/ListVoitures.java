@@ -1,8 +1,10 @@
+import java.util.Iterator;
 import java.util.List;
 
 public class ListVoitures {
 
     private List <Voiture> voitures;
+
     public ListVoitures(List<Voiture> voitures) {
         //à compléter
     }
@@ -40,5 +42,9 @@ public class ListVoitures {
     public void affiche(){
         System.out.println(voitures);
     }
+    public int compareTo(ListVoitures l) {
+        return 0;
+    }
+
 
 }

@@ -1,6 +1,6 @@
 import java.util.Objects;
 
-public class Voiture {
+public class Voiture implements  Comparable<Voiture>{
     private int immariculation;
 
     private String marque;
@@ -52,5 +52,7 @@ public class Voiture {
         return ("immariculation" + immariculation + "marque : " + marque + "prix de location : " +prixLocation);
 
     }
-//à completer
+    public int compareTo(Voiture v) {
+        return 0;
+    }
 }
